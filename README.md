@@ -14,6 +14,7 @@ Frontend:
 -  Phosphor/SVGrepo icons para ícones
 
 ==============================================
+<br/>
 Backend
 - ExpressJS
 - NodeJS
