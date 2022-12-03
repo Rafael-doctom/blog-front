@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.login {
+    width: 15%;
+    background-color: red;
+    font-size: 1.50rem;
+    color: white;
+    padding: 0.50rem;
+}
