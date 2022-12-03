@@ -1,0 +1,25 @@
+.login {
+    background-color: rgba(18, 14, 14, 0.308);
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    margin: 0 auto;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.inputs {
+    width: 50%;
+    height: 5vh;
+    border: 0;
+    border-radius: 3px;
+    margin: 0.10rem 0;
+    outline: 0;
+    padding-left: 0.50rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
