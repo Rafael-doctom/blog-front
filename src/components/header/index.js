@@ -1,7 +1,20 @@
+import Link from "next/link";
+
+import style from '../../../styles/header.module.css'
+
 const Header = () => {
     return (
         <>
-            Header
+            <div className={style.header}>
+            <h1>
+                LOGO
+            </h1>
+            <Link href='/login'>
+                <strong className={style.login}>
+                Login
+                </strong>
+            </Link>
+            </div>
         </>
     )
 }
